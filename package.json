@@ -1,0 +1,35 @@
+{
+  "name": "sit725-2023-t2-prac4",
+  "version": "1.0.0",
+  "description": "sit 725 week 4 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zainulabidins22/sit725-2023-t2-prac4.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "Muhammad Zain ul Abadin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zainulabidins22/sit725-2023-t2-prac4.git/issues"
+  },
+  "homepage": "https://github.com/zainulabidins22/sit725-2023-t2-prac4.git#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "http-post": "^0.1.1",
+    "http-proxy": "^1.8.1",
+    "mongoose": "^8.3.0",
+    "socket.io": "^4.7.5"
+  }
+}
